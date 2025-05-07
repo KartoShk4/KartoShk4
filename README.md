@@ -1,6 +1,6 @@
 <div align="center">
-  
-[![Змейка](https://raw.githubusercontent.com/KartoShk4/KartoShk4/output/github-snake.svg)](https://github.com/KartoShk4/KartoShk4)
+
+![Dark Snake Game](https://github.com/KartoShk4/KartoShk4/blob/output/github-snake-dark.svg)
 
 </div>
 
