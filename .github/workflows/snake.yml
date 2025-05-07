@@ -1,0 +1,29 @@
+name: Snake Game Animation
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Каждый час (для теста)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: KartoShk4
+          svg_fill: "#20C20E"  # Цвет змейки
+          svg_stroke: "#000000" # Обводка
+
+      - name: Push to output
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
