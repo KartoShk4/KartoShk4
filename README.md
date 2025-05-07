@@ -10,7 +10,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&width=400&lines=Привет,+меня+зовут+Евгений!;Я+Frontend+разработчик;Angular+%7C+JavaScript+%7C+TypeScript)](https://github.com/KartoShk4)
 
 <!-- Анимированная иконка -->
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120" alt="ui">
 
   </div>
 </div>
@@ -51,9 +51,8 @@
 ### 📫 Как связаться
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your_profile/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emuhamadeev)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/[your_profile](https://leetcode.com/u/kartoshk4/)/)
 
 </div>
 
