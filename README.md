@@ -12,12 +12,20 @@
 ### 🛠️ Мой технологический стек
 <div align="center">
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+#### **Основные технологии**
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,jquery" alt="tech stack" />
+</div>
 
+#### **Инструменты разработки**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,webpack,gulp,npm,webstorm,vscode" alt="tools" />
+</div>
 
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
+#### **Дизайн и графика**
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,ps" alt="design" />
+</div>
 
 </div>
 
