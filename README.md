@@ -7,7 +7,7 @@
 <div align="center">
   <div style="text-align: center; margin: 0 auto; max-width: 500px;">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&width=400&lines=Привет,+меня+зовут+Евгений!;Я+Frontend+разработчик;Angular+%7C+JavaScript+%7C+TypeScript)](https://github.com/KartoShk4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=3000&pause=1000&color=8A2BE2&width=500&lines=Привет,+меня+зовут+Евгений!;Я+Frontend+разработчик;Angular+%7C+JavaScript+%7C+TypeScript)](https://github.com/KartoShk4)
 
 <!-- Анимированная иконка -->
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="120" alt="ui">
