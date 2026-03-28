@@ -30,18 +30,6 @@
 </div>
 
 
----
-
-### 📊 Моя активность
-<div align="center">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KartoShk4&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/KartoShk4)
-
-</div>
-
----
-
 ### 📫 Как связаться
 <div align="center">
 
