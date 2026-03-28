@@ -1,10 +1,4 @@
 <div align="center">
-
-![Dark Snake Game](https://github.com/KartoShk4/KartoShk4/blob/output/github-snake-dark.svg)
-
-</div>
-
-<div align="center">
   <div style="text-align: center; margin: 0 auto; max-width: 500px;">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=3000&pause=1000&color=8A2BE2&width=500&lines=Привет,+меня+зовут+Евгений!;Я+Frontend+разработчик;Angular+%7C+JavaScript+%7C+TypeScript)](https://github.com/KartoShk4)
